@@ -9,7 +9,7 @@ Use AI to translate code from one language to another.
 **1. Clone Repo**
 
 ```bash
-git clone https://github.com/mckaywrigley/ai-code-translator.git
+git clone https://github.com/alexmaster1998/gpt-codex-translator.git
 ```
 
 **2. Install Dependencies**
